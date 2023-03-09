@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import UserMessage from './UserMessage'
 import UserData from './UserData'
+// importing the child components here!!
 
 class NestingComponents extends Component {
     constructor(props) {
